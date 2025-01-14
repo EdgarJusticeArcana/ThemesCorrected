@@ -516,9 +516,8 @@
 	"PLUM_22": "#0f1428"
     },
     "background": {
-	"blur": 3,
         "url": "https://raw.githubusercontent.com/EdgarJusticeArcana/ThemesCorrected/refs/heads/main/ClearVision/Vendetta/126137783_p0_master1200.jpg",
-	"alpha": 3
+	"alpha": 1
     },
     "plus": {
         "version": 0,
